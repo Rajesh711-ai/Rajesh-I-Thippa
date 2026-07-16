@@ -1,0 +1,9 @@
+# Robots.txt for BallotCast Secure Online Voting System
+User-agent: *
+Allow: /
+
+# Exclude backend and sensitive api routes
+Disallow: /api/
+
+# Specify Sitemap URL
+Sitemap: https://ais-pre-wn7yp64hq7gqjun4dc5wt2-270839861885.asia-east1.run.app/sitemap.xml

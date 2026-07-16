@@ -1,0 +1,6 @@
+{
+  "name": "Online Voting System",
+  "description": "A secure, professional, and full-featured online voting system with user registration, candidate management, voting, live results with charts, and admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
